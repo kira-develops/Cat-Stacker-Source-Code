@@ -18,6 +18,13 @@
 # Creating/Uploading mods
 
 If you make a mod for the game, DM me on Discord.
+
+NOTE: The game is made in Phaser 2, so you should use Phaser 2's documentation to make mods if you don't know it. Phaser works off JavaScript. Happy modding!
+
+DOUBLE NOTE: If you want to add a module to it, DONT use JavaScript import. Add the module to the node_modules folder and reference it in the index.html file in this format: <script src="./node_modules/YOURMODULE/mainjavascriptfile.js"></script>
+
+You won't need to use import if you do it this way.
+
 # My Discord
 
 KiraDev#0211

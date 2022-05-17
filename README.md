@@ -1,5 +1,9 @@
 # Cat Stacker Source Code
- This is the repo for the open source code of Cat Stacker. This is NOT official, but it is the official source code. It contains as many versions of the game that I can find. DM me on Discord if you know any versions that aren't 1.6 or 1.8 (COMING SOON)
+ This is the repo for the open source code of Cat Stacker. This is NOT official, but it is the official source code. It contains as many versions of the game that I can find. DM me on Discord if you know any versions that aren't 1.6, 1.7, or 1.8 (1.6 & 1.7 COMING SOON)
+ 
+# EXTRA NOTE:
+
+To download the actual source select the version you want from the *branches*. Enjoy!
 
 # HOW TO RUN/INSTALL
 
